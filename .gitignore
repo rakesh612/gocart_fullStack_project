@@ -9,7 +9,6 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-How_To_Run_Project.pdf
 
 # testing
 /coverage
@@ -33,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env
+How_To_Run_Project.pdf
 
 # vercel
 .vercel
