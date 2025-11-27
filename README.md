@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+About
+GoCart is a free and open-source multi-vendor e-commerce template built with Next.js and Tailwind CSS. It features a modern design, responsive layout and essential pages to help you launch scalable online stores and marketplaces with ease.
+
 ## Getting Started
 
 First, install the dependencies:
