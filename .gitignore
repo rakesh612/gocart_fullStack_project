@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+How_To_Run_Project.pdf
 
 # testing
 /coverage
